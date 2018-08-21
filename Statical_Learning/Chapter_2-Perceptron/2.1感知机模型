@@ -1,0 +1,21 @@
+# define
+
+* 输入空间是R^n,输出空间是y={-1,+1}----实例的类别
+
+
+$$f(x) = sign(w*x+b)$$
+
+* w --- 权值向量
+* b --- 偏置
+* sign --- 符号函数  sign=+！（x>=0）
+
+
+## 假设空间
+定义在特征空间的所有线性分类模型---即函数集合{f|f(x)=w*x+b}
+
+## 意义
+* 线性方程 W*x +b =0 对应于特征空间的一个超平面S，超平面将特征空间划分成两部分
+
+![](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_2-Perceptron/picture/%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%A8%A1%E5%9E%8B.png)
+
+## 训练模型--求解模型参数w，b
