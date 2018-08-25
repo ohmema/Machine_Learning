@@ -14,3 +14,6 @@
 
 
 ## [3-2 knn算法实现--搜索kd树](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_3-KNN/3.3-1k%E8%BF%91%E9%82%BB%E6%B3%95%E7%9A%84%E5%AE%9E%E7%8E%B0%3A%E6%90%9C%E7%B4%A2kd%E6%A0%91.md)
+
+
+## [章节习题]()
