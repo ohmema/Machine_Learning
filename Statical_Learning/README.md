@@ -28,3 +28,27 @@
 ##### [2.3.2算法的收敛性](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_2-Perceptron/2.3Perceptron-Algorithm/2.3.2%E7%AE%97%E6%B3%95%E7%9A%84%E6%94%B6%E6%95%9B%E6%80%A7.md)
 ##### [2.3.3学习算法的对偶形式](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_2-Perceptron/2.3Perceptron-Algorithm/2.3.3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E7%9A%84%E5%AF%B9%E5%81%B6%E5%BD%A2%E5%BC%8F.md)
 ### [章节习题]()
+
+
+---------------
+--------------
+# [3 KNN](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_3-KNN/README.md)
+###  [3.1KNN算法简介](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_3-KNN/3.1KNN%E7%AE%97%E6%B3%95.md)
+
+
+###  [3.2k近邻模型](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_3-KNN/3.2k%E8%BF%91%E9%82%BB%E6%A8%A1%E5%9E%8B.md)
+
+### 3.3knn 算法实现
+
+###### [3-1 knn算法实现--kd树的构造](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_3-KNN/3.3-2k%E8%BF%91%E9%82%BB%E6%B3%95%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%9Akd%E6%A0%91%E6%9E%84%E9%80%A0.md)
+
+
+###### [3-2 knn算法实现--搜索kd树](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_3-KNN/3.3-1k%E8%BF%91%E9%82%BB%E6%B3%95%E7%9A%84%E5%AE%9E%E7%8E%B0%3A%E6%90%9C%E7%B4%A2kd%E6%A0%91.md)
+
+
+### [章节习题](https://github.com/LiuChuang0059/Machine_Learning/blob/master/Statical_Learning/Chapter_3-KNN/3-%E7%AB%A0%E8%8A%82%E4%B9%A0%E9%A2%98.md)
+
+-----------------
+
+
+
